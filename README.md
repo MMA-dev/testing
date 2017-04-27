@@ -1,2 +1,1 @@
-Hi, 
-this is just a simple test project.
+This is just a simple test project
