@@ -1,3 +1,2 @@
-Tee tähän python-koodia
-Lisää koodia
-kolmas rivi koodia
+count = 0
+print ('It is alive')
